@@ -4,119 +4,118 @@ author: "Brennan"
 date: '2022-06-22'
 output: html_document
 ---
-## Ask
 
+## Ask
 ### Questions
-1.
+1. What does the value of Free Shipping have to customers when it is not a promotion but a normal digital offering?
+2. What value will we be losing if we don't continuously offer Free Shipping to customers?
+3. How did the test groups perform?
 
 ### Deliverables
-1. **A clear summary of the business task**
-2. **A description of all data sources used**
-3. **Documentation of any cleaning or manipulating of data**
-4. **A summary of your analysis**
-5. **Supporting visualizations and key findings**
-6. **Your top high-level content recommendations based on your analysis.**
+1. A clear summary of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulating of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top high-level content recommendations based on your analysis.
 
 #### Guiding questions
-* **What is the problem you are trying to solve?** 
-
-* **How can your insights drive business decisions?** 
+* What is the problem you are trying to solve?
+* How can your insights drive business decisions? 
 
 #### Key tasks
-1. **Identify the business task** 
-
-2. **Consider stakeholders** 
+1. Identify the business task
+2. Consider stakeholders
 
 #### Deliverable
-* **A clear statement of the business task.** 
+* A clear statement of the business task. 
 
 ## Prepare
-
 #### Guiding questions
-* **Where is your data stored?** 
-* **How is the data organized? Is it long or wide format?** 
-* **Are there issues with bias or credibility in this data?** 
-* **How are you addressing licensing, privacy, security, and accessibility?** 
-* **How did you veify the data's integrity?** 
-* **How does it help to answer your question?** 
-* **Are there any problems with the data?** 
+* Where is your data stored? 
+* How is the data organized? Is it long or wide format? 
+* Are there issues with bias or credibility in this data? 
+* How are you addressing licensing, privacy, security, and accessibility? 
+* How did you verify the data's integrity?
+* How does it help to answer your question? 
+* Are there any problems with the data? 
 
 #### Key tasks
-1. **Download data and store it appropriately.** 
-2. **Identify how it's organized** 
-3. **Sort and filter the data.** 
-4. **Determine the credibility of the data.** 
+1. Download data and store it appropriately. 
+2. Identify how it's organized 
+3. Sort and filter the data.
+4. Determine the credibility of the data.
 
 #### Deliverables
-* **A description of all data sources used**
+* A description of all data sources used
 
 ## Process
 Process data for analysis
 
 #### Guiding questions
-* **What tools are you choosing and why?** 
-* **Have you ensured your data's integrity?** 
-* **What steps have you taken to ensure your data is clean?** 
-* **How can you verify that your data is clean and ready to analyze?** 
-* **Have you documented your cleaning process so you can review and share those results?** 
+* What tools are you choosing and why?
+* Have you ensured your data's integrity? 
+* What steps have you taken to ensure your data is clean?
+* How can you verify that your data is clean and ready to analyze?
+* Have you documented your cleaning process so you can review and share those results?
 
 #### Key tasks
-* **Check the data for errors.** 
-* **Choose your tools.** 
-* **Transform the data so you can work with it effectively.** 
-* **Document the cleaning prcoess.** 
+* Check the data for errors.
+* Choose your tools.
+* Transform the data so you can work with it effectively.
+* Document the cleaning process.
 
 ## Analyze
-
 #### Guidng questions
-* **How should you organize your data to perform analysis on it?** 
-* **Has your data been properly formatted?** 
-* **What surprises did you discover in the data?** 
-* **What trends or relationships did you find in the data?** 
-* **How will these insights help answer your business questions?** 
+* How should you organize your data to perform analysis on it?
+* Has your data been properly formatted?
+* What surprises did you discover in the data? 
+* What trends or relationships did you find in the data? 
+* How will these insights help answer your business questions?
 
 #### Key tasks
-1. **Aggregate your data so it's useful and accessible.** 
-2. **Organize and format your data.** 
-3. **Perform calculations.** 
-4. **Identify trends and relationships.**
+1. Aggregate your data so it's useful and accessible.
+2. Organize and format your data.
+3. Perform calculations.
+4. Identify trends and relationships.
 
 #### Delivery
-* **A summary of your analysis.** 
+* A summary of your analysis.
 
 ## Share
 #### Guidng questions
-* **Were you able to answer the business question?** 
-* **What story does your data tell?** 
-* **How do your findings relate to your original question?**
-* **Who is your audience? What is the best way to communicate with them?** 
-* **Can data visualization help you share your findings?** 
-* **Is your presentation accessible to your audience?** 
+* Were you able to answer the business question?
+* What story does your data tell?
+* How do your findings relate to your original question?
+* Who is your audience? What is the best way to communicate with them? 
+* Can data visualization help you share your findings? 
+* Is your presentation accessible to your audience?
 
 #### Key tasks
-1. **Dtermine the best way to share your findings.** 
-2. **Create effective data visualizations.** 
-3. **Present your findings.** 
-4. **Ensure your work is accessible.**
+1. Determine the best way to share your findings.
+2. Create effective data visualizations.
+3. Present your findings.
+4. Ensure your work is accessible.
 
 #### Deliverable
-* **Supporting visualizations and key findings.**
+* Supporting visualizations and key findings.
 
 ## Act
 #### Guiding questions
-* **What is your final conclusion based on your analytics?** 
-* **How could your team and business apply your insights?** 
-* **What next steps would you or your stakeholders take based on your insights?** 
-* **Is there additional data you could use to expand your findings?** 
+* What is your final conclusion based on your analytics?
+* How could your team and business apply your insights?
+* What next steps would you or your stakeholders take based on your insights? 
+* Is there additional data you could use to expand your findings? 
 
 #### Key tasks
-1. **Create your portfolio.**
-2. **Add your case study.**
-3. **Practice prsenting your case study to a friend or family member.**
+1. Create your portfolio.
+2. Add your case study.
+3. Practice presenting your case study to a friend or family member.
 
 #### Deliverable
-* **Your top high-level insights based on your analysis.**
+* Your top high-level insights based on your analysis.
 
 ## Cleaning Log
+
 
 
